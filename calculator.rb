@@ -1,4 +1,3 @@
-def calculator
-  do first_number = get_variable_from_file
+
+  do first_number = 0
   end
-end
